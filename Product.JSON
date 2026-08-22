@@ -1,0 +1,182 @@
+[
+  {
+    "Product_ID": 101,
+    "Product_Name": "Wireless Mouse",
+    "Category": "Electronics",
+    "Price": 25.99,
+    "Stock_Quantity": 150,
+    "Release_Date": "2023-01-15",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 102,
+    "Product_Name": "Ergonomic Chair",
+    "Category": "Furniture",
+    "Price": 199.50,
+    "Stock_Quantity": 45,
+    "Release_Date": "2022-11-05",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 103,
+    "Product_Name": "Gaming Keyboard",
+    "Category": "Electronics",
+    "Price": 79.99,
+    "Stock_Quantity": 120,
+    "Release_Date": "2023-04-12",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 104,
+    "Product_Name": "Water Bottle",
+    "Category": "Kitchen",
+    "Price": 12.99,
+    "Stock_Quantity": 300,
+    "Release_Date": "2024-02-20",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 105,
+    "Product_Name": "Running Shoes",
+    "Category": "Apparel",
+    "Price": 89.99,
+    "Stock_Quantity": 80,
+    "Release_Date": "2023-08-11",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 106,
+    "Product_Name": "Bluetooth Speaker",
+    "Category": "Electronics",
+    "Price": 45.00,
+    "Stock_Quantity": 65,
+    "Release_Date": "2023-05-30",
+    "Is_Active": false
+  },
+  {
+    "Product_ID": 107,
+    "Product_Name": "Desk Lamp",
+    "Category": "Furniture",
+    "Price": 34.99,
+    "Stock_Quantity": 15,
+    "Release_Date": "2023-06-18",
+    "Is_Active": false
+  },
+  {
+    "Product_ID": 108,
+    "Product_Name": "Ceramic Mug",
+    "Category": "Kitchen",
+    "Price": 8.50,
+    "Stock_Quantity": 500,
+    "Release_Date": "2021-09-18",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 109,
+    "Product_Name": "Winter Jacket",
+    "Category": "Apparel",
+    "Price": 120.00,
+    "Stock_Quantity": 25,
+    "Release_Date": "2023-11-15",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 110,
+    "Product_Name": "4K Monitor",
+    "Category": "Electronics",
+    "Price": 499.99,
+    "Stock_Quantity": 15,
+    "Release_Date": "2023-10-10",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 111,
+    "Product_Name": "Notebook",
+    "Category": "Stationery",
+    "Price": 4.25,
+    "Stock_Quantity": 1000,
+    "Release_Date": "2022-01-05",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 112,
+    "Product_Name": "Gel Pens (10-pack)",
+    "Category": "Stationery",
+    "Price": 7.99,
+    "Stock_Quantity": 250,
+    "Release_Date": "2022-03-14",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 113,
+    "Product_Name": "Backpack",
+    "Category": "Apparel",
+    "Price": 45.00,
+    "Stock_Quantity": 95,
+    "Release_Date": "2023-07-22",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 114,
+    "Product_Name": "Smart Watch",
+    "Category": "Electronics",
+    "Price": 249.99,
+    "Stock_Quantity": 60,
+    "Release_Date": "2024-01-10",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 115,
+    "Product_Name": "Coffee Maker",
+    "Category": "Kitchen",
+    "Price": 59.99,
+    "Stock_Quantity": 40,
+    "Release_Date": "2022-05-17",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 116,
+    "Product_Name": "Blender",
+    "Category": "Kitchen",
+    "Price": 89.00,
+    "Stock_Quantity": 30,
+    "Release_Date": "2023-11-21",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 117,
+    "Product_Name": "Yoga Mat",
+    "Category": "Sports",
+    "Price": 29.99,
+    "Stock_Quantity": 120,
+    "Release_Date": "2023-02-28",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 118,
+    "Product_Name": "Dumbbells (Pair)",
+    "Category": "Sports",
+    "Price": 39.99,
+    "Stock_Quantity": 40,
+    "Release_Date": "2022-08-05",
+    "Is_Active": false
+  },
+  {
+    "Product_ID": 119,
+    "Product_Name": "Standing Desk",
+    "Category": "Furniture",
+    "Price": 350.00,
+    "Stock_Quantity": 12,
+    "Release_Date": "2023-12-01",
+    "Is_Active": true
+  },
+  {
+    "Product_ID": 120,
+    "Product_Name": "Hoodie",
+    "Category": "Apparel",
+    "Price": 49.99,
+    "Stock_Quantity": 110,
+    "Release_Date": "2023-09-25",
+    "Is_Active": true
+  }
+]

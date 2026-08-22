@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Price,Stock_Quantity,Release_Date,Is_Active
+101,Wireless Mouse,Electronics,25.99,150,2023-01-15,True
+102, Ergonomic Chair,Furniture,199.50,45,2022-11-05,True
+103,Gaming Keyboard,Electronics,79.99,,2023-04-12,True
+104,Water Bottle,Kitchen,-12.99,300,2024-02-20,True
+105,Running Shoes,Apparel,89.99,80,2023-08-11,True
+105,Running Shoes,Apparel,89.99,80,2023-08-11,True
+106,Bluetooth Speaker,Electronics,missing,65,2023-05-30,False
+107,Desk Lamp,Furniture,34.99,0,,False
+108,Ceramic Mug,Kitchen,8.50,500,2021-09-18,True
+109,Winter Jacket,Apparel,120.00,25,NOT_A_DATE,True
+110,,Electronics,499.99,15,2023-10-10,True
+111,Notebook,Stationery,4.25,1000,2022-01-05,True
+112,Gel Pens (10-pack),Stationery,7.99,NULL,2022-03-14,True
+113,Backpack,Apparel,45.00,-10,2023-07-22,True
+114,Smart Watch,Electronics,249.99,60,2024-01-10,
+115,Coffee Maker,Kitchen,59.99,na,2022-05-17,True
+116,Blender,Kitchen,eighty-nine,30,2023-11-21,True
+117,Yoga Mat,Sports,29.99,120,2023-02-28,True
+118,Dumbbells (Pair),Sports,39.99,40,2022-08-05,False
+119,Standing Desk,Furniture,350.00,12,2023-12-01,True

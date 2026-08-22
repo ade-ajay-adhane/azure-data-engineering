@@ -1,0 +1,11 @@
+emp_id,name,department,salary
+101,Ajay,IT,65000
+102,Priya,HR,55000
+103,Rahul,Finance,70000
+104,Neha,Sales,60000
+105,Amit,IT
+106,Sneha,HR,abc
+107,John,Finance,75000,ExtraColumn
+108,,IT,68000
+109,Ravi,Sales,62000
+110

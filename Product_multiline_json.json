@@ -1,0 +1,78 @@
+[
+  {
+    "ProductID": 101,
+    "ProductName": "Laptop",
+    "Category": "Electronics",
+    "Brand": "Dell",
+    "Price": 65000,
+    "InStock": true,
+    "ManufactureDate": "2025-01-15",
+    "Supplier": {
+      "SupplierID": 1,
+      "SupplierName": "ABC Technologies",
+      "City": "Pune",
+      "State": "Maharashtra"
+    },
+    "Colors": [
+      "Black",
+      "Silver",
+      "Gray"
+    ]
+  },
+  {
+    "ProductID": 102,
+    "ProductName": "Smartphone",
+    "Category": "Electronics",
+    "Brand": "Samsung",
+    "Price": 28000,
+    "InStock": true,
+    "ManufactureDate": "2025-02-20",
+    "Supplier": {
+      "SupplierID": 2,
+      "SupplierName": "XYZ Electronics",
+      "City": "Mumbai",
+      "State": "Maharashtra"
+    },
+    "Colors": [
+      "Blue",
+      "White"
+    ]
+  },
+  {
+    "ProductID": 103,
+    "ProductName": "Office Chair",
+    "Category": "Furniture",
+    "Brand": "IKEA",
+    "Price": 5500,
+    "InStock": false,
+    "ManufactureDate": "2024-12-10",
+    "Supplier": {
+      "SupplierID": 3,
+      "SupplierName": "Home Comfort",
+      "City": "Bengaluru",
+      "State": "Karnataka"
+    },
+    "Colors": [
+      "Black",
+      "Brown"
+    ]
+  },
+  {
+    "ProductID": 104,
+    "ProductName": "Wireless Mouse",
+    "Category": "Accessories",
+    "Brand": "Logitech",
+    "Price": 1200,
+    "InStock": true,
+    "ManufactureDate": "2025-03-05",
+    "Supplier": {
+      "SupplierID": 4,
+      "SupplierName": "Tech Supplies",
+      "City": "Hyderabad",
+      "State": "Telangana"
+    },
+    "Colors": [
+      "Black"
+    ]
+  }
+]
